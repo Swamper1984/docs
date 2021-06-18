@@ -15,7 +15,7 @@ versions:
 **Note:** The {% data variables.product.prodname_container_registry %} is currently in public beta and subject to change. During the beta, storage and bandwidth are free. For more information, see "[Introduction to {% data variables.product.prodname_registry %}](/packages/learn-github-packages/introduction-to-github-packages)."
 
 {% endnote %}
-
+Rrrr
 {% data reusables.package_registry.docker-vs-container-registry %}
 
 ## Enabling the {% data variables.product.prodname_container_registry %} for your personal account
